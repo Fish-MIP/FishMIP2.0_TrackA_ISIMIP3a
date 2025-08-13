@@ -1118,25 +1118,25 @@ according to the following pattern:
 **Global models**
 
 ``` linux
-<model>_<climate-forcing>_<bias-adjustment>_<climate-scenario>_<soc-scenario>_<sens-scenario>_<variable>_<global>_<time-step>_<start-year>_<end-year>.nc
+<model>_<climate-forcing>_<climate-scenario>_<soc-scenario>_<sens-scenario>_<variable>_<global>_<time-step>_<start-year>_<end-year>.nc
 ```
 
 Example:
 
 ``` linux
-boats_gfdl-mom6-cobalt2_none_obsclim_histsoc_default_tcb_global_monthly_1961_2010.nc
+boats_gfdl-mom6-cobalt2_obsclim_histsoc_default_tcb_global_monthly_1961_2010.nc
 ```
 
 **Regional models**
 
 ``` linux
-<model>_<climate-forcing>_<bias-adjustment>_<climate-scenario>_<soc-scenario>_<sens-scenario>_<variable>_<region>_<time-step>_<start-year>_<end-year>.nc
+<model>_<climate-forcing>_<climate-scenario>_<soc-scenario>_<sens-scenario>_<variable>_<ocean-region>_<time-step>_<start-year>_<end-year>.nc
 ```
 
 Example:
 
 ``` linux
-osmose_gfdl-mom6-cobalt2_none_obsclim_histsoc_default_tcb_benguela_monthly_1961_2010.nc
+osmose_gfdl-mom6-cobalt2_obsclim_histsoc_default_tcb_benguela_monthly_1961_2010.nc
 ```
 
 Please see the climate-scenario, soc-scenario, sens-scenario and
@@ -1178,7 +1178,7 @@ on DKRZ here
 
 Please contact FishMIP coordinators (<fishmip.coordinators@gmail.com>)
 or ISIMIP data managers directly
-([isimip-data@pik‐potsdam.de](mailto:isimip-data@pik%E2%80%90potsdam.de))
+([isimip-data@pik‐potsdam.de](mailto:isimip-data@pik-potsdam.de))
 if you have any questions or clarifications before submitting files or
 if you do not find your model’s path on DKRZ as described above.
 
