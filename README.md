@@ -1124,7 +1124,7 @@ according to the following pattern:
 Example:
 
 ``` linux
-boats_gfdl-mom6_cobalt2_none_obsclim_histsoc_default_tcb_global_monthly_1961_2010.nc
+boats_gfdl-mom6-cobalt2_none_obsclim_histsoc_default_tcb_global_monthly_1961_2010.nc
 ```
 
 **Regional models**
@@ -1136,7 +1136,7 @@ boats_gfdl-mom6_cobalt2_none_obsclim_histsoc_default_tcb_global_monthly_1961_201
 Example:
 
 ``` linux
-osmose_gfdl-mom6_cobalt2_none_obsclim_histsoc_default_tcb_benguela_monthly_1961_2010.nc
+osmose_gfdl-mom6-cobalt2_none_obsclim_histsoc_default_tcb_benguela_monthly_1961_2010.nc
 ```
 
 Please see the climate-scenario, soc-scenario, sens-scenario and
